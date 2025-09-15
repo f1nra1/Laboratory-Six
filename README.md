@@ -1,4 +1,4 @@
-# Лабораторная работа №3
+# Лабораторная работа №6
 
 **Тема:** Обработка двумерных массивов и контейнеров
 **Цель:** изучение алгоритмов формирования и обработки двумерных массивов, программирование и отладка программ формирования и обработки массивов.
@@ -24,13 +24,11 @@
 
 <img width="600" height="140" alt="image" src="https://github.com/user-attachments/assets/ca3e409d-65c7-48db-a843-527d313beb5d" />
 
-
 ---
 
 ## Задание 6.3: СЛАУ
 
-<img width="591" height="402" alt="image" src="https://github.com/user-attachments/assets/2d004db6-bd98-4c2d-bbd5-e53e8b24924d" />
-
+<img width="592" height="410" alt="image" src="https://github.com/user-attachments/assets/9f6cc6c6-a92d-40be-b7ff-f672c94989ea" />
 
 ---
 
